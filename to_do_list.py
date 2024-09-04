@@ -23,7 +23,7 @@ def save_tasks():
 
 def view_tasks():
     print("TO-Do-List:")
-    # Iterate over the tasks list with index starting from 1, 
+    # Iterate over the tasks list with index starting from 1 
     for i , task in enumerate(tasks, start = 1):
         print(f"{i}.{task}") # formated string
 
