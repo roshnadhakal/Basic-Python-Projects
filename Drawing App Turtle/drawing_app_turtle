@@ -1,0 +1,39 @@
+import turtle  # Import the turtle module for drawing
+
+# Set up the screen for drawing
+screen = turtle.Screen()  # Create a screen object
+screen.title("Simple Drawing App")  # Set the title of the window
+
+# Create a turtle object (pen) that will be used for drawing
+pen = turtle.Turtle()
+
+# Function to move the pen forward by 10 units
+def move_forward():
+    pen.forward(10)
+
+# Function to move the pen backward by 10 units
+def move_backward():
+    pen.backward(10)
+
+# Function to turn the pen to the left by 10 degrees
+def turn_left():
+    pen.left(10)
+
+# Function to turn the pen to the right by 10 degrees
+def turn_right():
+    pen.right(10)
+
+# Function to clear the drawing on the screen
+def clear_screen():
+    pen.clear()
+
+# Set up key listeners for controlling the turtle's movements
+screen.listen()  # Tell the program to listen for keyboard input
+screen.onkey(move_forward, "w")  # Move forward when "w" is pressed
+screen.onkey(move_backward, "s")  # Move backward when "s" is pressed
+screen.onkey(turn_left, "a")  # Turn left when "a" is pressed
+screen.onkey(turn_right, "d")  # Turn right when "d" is pressed
+screen.onkey(clear_screen, "c")  # Clear the screen when "c" is pressed
+
+# Keep the window open and responsive to user input
+screen.mainloop()
