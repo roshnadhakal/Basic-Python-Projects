@@ -3,12 +3,12 @@ README:
 Simple Calculator Program
 
 **Overview:**
-This is a basic calculator program written in Python that allows users to perform addition, subtraction, multiplication, and division operations.
+This is a basic calculator program written in Python that allows users to perform addition, subtraction, multiplication, and division operations.  
 
 **Features:**
-Supports addition, subtraction, multiplication, and division operations
-Handles division by zero error
-Provides a simple command-line interface for user interaction
+Supports addition, subtraction, multiplication, and division operations  
+Handles division by zero error  
+Provides a simple command-line interface for user interaction  
 
 **Requirements:**
 Python 3.12.4 or later
