@@ -32,14 +32,17 @@ The program consists of the following functions:
 - Python 3.12.4 or higher
 
 ## Example Usage
-- Unit Converter Program
-- Convert Miles to Kilometers
-- Convert Kilometers to Miles
-- Convert Celsius to Fahrenheit
-- Convert Fahrenheit to Celsius
-- Enter your choice (1/2/3/4): 1
-- Enter miles: 5
-- 5 miles is equal to 8.0467 kilometers
+
+```bash
+$ python unit_converter.py
+Unit Converter Program
+1. Convert Miles to Kilometers
+2. Convert Kilometers to Miles
+3. Convert Celsius to Fahrenheit
+4. Convert Fahrenheit to Celsius
+Enter your choice (1/2/3/4): 1
+Enter miles: 5
+5 miles is equal to 8.0467 kilometers
 
 ## Contributing
 
