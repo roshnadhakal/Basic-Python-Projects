@@ -1,6 +1,6 @@
-README:
+***README***:
 
-Simple Calculator Program
+***Simple Calculator Program***
 
 **Overview:**  
 This is a basic calculator program written in Python that allows users to perform addition, subtraction, multiplication, and division operations.  
