@@ -1,4 +1,4 @@
-echo "# Word Frequency Counter
+# Word Frequency Counter
 
 A simple Python script that counts the frequency of each word in a given text file. This project is built using Python 3.12.4.
 
