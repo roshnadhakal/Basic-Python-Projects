@@ -42,11 +42,11 @@ Hello everyone
 
 The output will be:
 
-\`\`\`
+
 The word 'hello' appears '2' times.  
 The word 'world' appears '1' times.  
 The word 'everyone' appears '1' times.  
-\`\`\`
+
 
 ## Contributing
 
