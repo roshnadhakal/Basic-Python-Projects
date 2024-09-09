@@ -33,7 +33,7 @@ The program consists of the following functions:
 
 ## Example Usage
 
-```bash
+
 $ python unit_converter.py
 Unit Converter Program
 1. Convert Miles to Kilometers
