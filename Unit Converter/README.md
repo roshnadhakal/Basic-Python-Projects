@@ -31,9 +31,13 @@ The program consists of the following functions:
 
 - Python 3.12.4 or higher
 
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request.
+
 ## Example Usage
 
-
+```bash
 $ python unit_converter.py
 Unit Converter Program
 1. Convert Miles to Kilometers
@@ -44,6 +48,4 @@ Enter your choice (1/2/3/4): 1
 Enter miles: 5
 5 miles is equal to 8.0467 kilometers
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request.
